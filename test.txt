@@ -1,6 +1,7 @@
 ghjcnj test
 
 v
+fff
 
 git commit -m "новый комит"
 Текущая ветка: master
